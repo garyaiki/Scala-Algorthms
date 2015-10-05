@@ -98,13 +98,13 @@ when tests complete there is a long BDD style report. Passes are green failures 
 [info] PrimMSTSuite:
 [info] a PrimMST
 [info] - should build from an EdgeWeightedGraph
-[info] - should calulate total weight of edges in tinyEWG MST
+[info] - should calculate total weight of edges in tinyEWG MST
 [info] - should find expected edges in a MST
 [info] - should be acyclic
 [info] - should find when it has a spanning forest
 [info] - should validate a minimal spanning forest
-[info] - should calulate total edge weight of mediumEWG MST
-[info] - should calulate total edge weight of largeEWG MST
+[info] - should calculate total edge weight of mediumEWG MST
+[info] - should calculate total edge weight of largeEWG MST
 [info] SymbolGraphSuite:
 [info] a SymbolGraph
 [info] - should find vertices as keys and routes
